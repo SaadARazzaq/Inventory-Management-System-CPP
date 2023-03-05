@@ -1,0 +1,2 @@
+C:\Users\hs\source\repos\Inventory System\Debug\Inventory System.exe
+C:\Users\hs\source\repos\Inventory System\Debug\Inventory System.pdb
